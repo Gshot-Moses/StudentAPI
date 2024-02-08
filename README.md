@@ -1,4 +1,4 @@
-# StudentVueClient
+# StudentAPI
 
 This template should help get you started.
 
